@@ -1,0 +1,7 @@
+David:		Mostrar el DNI, nombre de las profesoras que dictaron clases entre el 2018 y 2019.
+
+Edson:		Mostrar la asignatura y los datos de un profesor segun el departamento al que pertenezcan.
+
+Eduardo: 	Cual es el departamento que tiene mas profesores dictando asignaturas entre el año 2017-2018.
+
+Joel: 		Mostrar el nombre y apellido y grado que obtendran los alumnos matriculos del 2018-2019.
